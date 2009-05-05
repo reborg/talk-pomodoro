@@ -1,0 +1,34 @@
+PLANNED 14:
+
+DONE 16:
+- @planning general 1 => 2
+- @blah @notes @pagination @spike have a look at will paginate tutorial instructions, try 2 => 2
+- ....
+- ....
+
+UNPLANNED:
+- @bug regression 2 => 4
+
+NOT DONE:
+- @talk should write a talk for presentation 2
+
+STANDUP:
+- @yesterday this and that
+- @yesterday foo and bar I learned...
+- ...
+- @today I want to
+- ...
+
+POMOSPECTIVE:
+- Not very good at breaks today
+- Starbucks is too noise and I get distracted too often
+
+INTERRUPTS:
+- @internal found a very interesting website. Voided.
+- @external phone call insurance claim. Voided
+
+DUMP:
+305|@planning|2009-04-30 08:24:30 -0500
+306|@planning blah blah |2009-04-30 08:58:12 -0500
+306|@planning foo baz |2009-04-30 09:23:12 -0500
+...

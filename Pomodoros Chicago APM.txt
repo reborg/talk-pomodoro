@@ -1,0 +1,112 @@
+Pressure:
+  - It's a very good sign if you feel that pomodoros are breaking the flow.
+  - Definition of flow is often pressure, good pressure, because you see and feel how many things you need to do and all those things are perceived all at once
+  - Perceiving all at once is a very good sign because you're able to see big portion of a project as a whole, a situation that doesn't happen very often but only when your mind is fresh
+  - The "flow" and this apparently positive pressure is what you want to eliminate with pomodoros. This pressure of trying to squeeze as much as you can from a time in the day when you feel energized is what gives you the exahustion in the evening or at the end of the week
+  - With the pomodoro you don't want to eliminate completely this pressure or the flow. You just want to control it and maintaining it under a certain level so that you can spread the pressure over a longer period of time, say months instead of weeks.
+
+Startup Process:
+  - I wrote that process workflow when you first arrive in the morning what you're supposed to do with the first planning pomodoro. This sounds like a great slide. I don't know for this presentation though, for sure for Agile2009.
+
+Pomodoro Microcosmos:
+  - Even if it's sounds naive. If the goal of a pomodoro is X you have to fight to death to only stay on X. If X isn't working the temptation is to spend pomodoros on fixing the problem, when the solution is instead: to get to X don't use Y. Example: webrat is not working to test login. Wrong behavior: spend another 3 pomodoros to try to fix it. Good behavior: don't use webrat, don't test, use another solution. Long term solution: schedule a task to fix webrat problem on login, prioritize, execute. Rule: the target in the small for a pomodoro reflects what happens then in the large for the entire set of tasks and ultimately the project.
+  - What happens inside a single pomodoro reflects the entire project in the large. One #pomodoro to rule them all.
+
+Breaks:
+  - A break is a break. The best is to shut-down completely: close your eyes and relax. Here's a scale of activities from the best to the worst (possible slide with an x-axis):
+    - Close eyes, clear mind
+    - Stand-up and walk around
+    - Looking out the window
+    - Push-ups
+    - Looking pictures, books covers, magazines
+    - Making phone calls
+    - Reading news titles, email subjects
+    - Reading news, tweets, emails
+    - Paying bills online, booking flights, tickets, e-shopping
+    - Switch to another micro-task
+  - Strictly obey breaks enables sustainable pace of around 13/14 pomodoros/day for months! Why this is exceptional? Did you ever had Monday or Friday syndrome, or bad weeks, or bad days where you don't accomplish nothing? Those are GONE.
+
+Perceived effort VS real effort:
+  - Let's imagine this scenario:
+    - First week: 9/10 hours of intense work a day. Saturday around half a day for low priority tasks. Sunday some reading.
+    - Second week: the same. Feels great. Project grows fast.
+    - Third week: Monday feel worse than usual, strong desire to go out and relax. Tuesday better. Wednesday great. Thursday afternoon unable to accomplish anything. Friday: assigned to low priority tasks like burocracy. Saturday better, so some burocracy again. Sunday: reading.
+    - Fourth week. Same as third, but somehow difficult to sleep. Deep thinking until after midnight.
+    - Fitfh week. Monday very difficult to plan the work to do. Afternoon something better. Hoping 5pm will come soon. Tuesday better, but still confusion. Wednesday feel energized in the morning. Fall asleep after noon. Hoping 5pm arrive soon. Very tired until 7pm. Then a little more energy until 10 pm. Time to go to bed, but cannot sleep until 1 am.
+    - Sixth week. Every day only a few hours of real work done. The rest seems wasted somehow. Always hoping that lunch time comes as soon as possible. Very prone to breaks and distractions. Hard to focus on something for more than 3/4 hours a day. Feel the need of more relaxing tasks. Hoping for a meeting or to attend a presentation or a birthday cake.
+    - Seven week: goto sixth week. Pace estabilished.
+    - Total real work done? 50 hours + 55 hours + 40 hours + 40h + 35h +30h + 30h => projection next weeks? 30h/week of medium quality work with a perception of 50h a week.
+    - With Pomodoros: sustainable pace at around 35h/week of real work done. The same! But: Satisfaction is high. Accomplishment feeling. High quality of work. Deep concentration. High focus. Perception of 35h/week that means: energy for hobbies, sport, family.
+
+
+estimates and pomodoros:
+  - user story are estimated in days/points as usual unless you're comfortable with very short user stories (up to 4/5 hours) and in that case you can estimate in pomodoros
+  - tasks are estimated in pomodoros no longer than 6/7 pomodoros
+  - last iteration pomodoros 
+
+How to collect data:
+  - 1. write the number of pomodoros worked on a story on the story card at the end of the day while the task list is volatile and only used internally by the pair. The pair use the PT tacking guidelines for tracking pomodoros.
+  - 2. write the tasks on the story card and track tasks with pomodoros following the technique
+  - 3. some form of electronic tracking
+
+- collective team activities and pomodoros
+  - retrospective and other meetings: single pomodoro for the entire group with collective breaks
+
+- tagging pomodoros and timestamps
+  - can be useful if electronic format is used and pomodoros are used during retrospective to inspect the kind of work done
+  - pomodoro by user story by day
+
+how to use the data collected:
+  - 1. only total team pomodoro number is collected and during the retrospective you compare last iteration pomodoros against current iteration
+  - 2. actual pomodoros spent on a story compared to the estimate number
+  - 3. named pomodoros with the pair that produced them to show best pair combination
+
+- dealing with interruptions
+  - if the answer takes 30" just answer
+  - defer other requests at the end of the pomodoro or during the long break
+
+- pomodoro synchronization is typically too rigid
+  - 1. single pomodoro for the team. Simone is reporting they tried a single pomodoro for the team with very good socializing time but poor flexibility if a pair needs more or less break time.
+  - 2. one pomodoro each pair
+  - 3. one pomodoro each developer if pair programming is not in use
+
+- with the pomodoro timetable (which hours of the day are dedicated to pomodoro programming) there are synchronization point during the day
+
+- pomodoros are fine grained compared to pairing sessions. What happens during a 2 hours pairing session? How many breaks? There is no such a thing like a void pairing session because the cost of voiding two hours is too high compared to voiding only 30 minutes.
+
+- Pomodoro while pairing
+  - Driver tracking: is the driver who tracks pomodoros
+  - Alternate tracking: one pomodoro tracking each
+  - Ping pong based on pomodoros: ping: member A always write specs of member B. Following pomodoro the other way around
+
+- Daily pomodoro schedule
+  - allow time between 4 pomodoro sessions for break
+  - standup: pomospective: pomodoros worked yesterday, pomodoros available today, internal/external interruptions
+  - after the standup: 1 pomodoro planning for the day
+  - end of the day: 1 pomodoro for tracking
+
+- Agile PM and pomodoros
+  - if you are consistent saving pomodoros, you have a detailed day by day activity to analyze from where to extract relevant feedback.
+  - Tracking done at the task level was never a good suggestion: too much overhead. The same for pomodoros, but the pomodoro rhythm allows time for tracking very easily.
+  - Need supporting tools.
+  - Similar to pairing session mechanism at the end with more emphasis on sustainable pace but pairing session are too long in comparison and less sustainable.
+
+- Redpoint experience for comparison
+  - pair rotation
+    - I remember the pain of organizing consistent pair rotation
+    - we first decided to pair rotate daily with a story master always on the story until it was done
+    - it was difficult for the partial availability of the some member of the team
+  - pairing sessions
+    - are similar to the pomodoro timetable, time protected slot of the day to dedicate 100% to pomodoro or pairing
+    - there was no such a thing like a void pairing session, so if for any reason the pair was interrupted to solve another problem for, say, half an hour, the pairing session was always counted against the current story
+    - sometimes feel very tired after two intense hours of pairing without a break and 3 sessions a day.
+    - There was no break between pairing sessions, because those slots were always used in some way or another and even lunch time was shrinked down to 30 mins
+    - The full 8 hours at redpoint were simply unsustainable
+    - The pomodoro technique allows in this scenario to account for brain recovery inside the pairing session and between sessions
+
+- Talk Layout
+  - Pomodoro main facts
+  - Pomodoro benefits
+  - An example daily pomodoros scenario
+- References
+  - http://www.slideshare.net/goberiko/the-pomodoro-technique-for-sustainable-pace

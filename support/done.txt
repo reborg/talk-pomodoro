@@ -1,0 +1,30 @@
+✓ @godaddy setup subdomain to redirect to blog. Need to create index.html page to redirect. 2 => 2
+✓ @personal call the insurance for the 20$ claim that was denied
+✓ @other Recovery reborg.net account from time machine should be possible 2 => 1
+✓ @palomizable @objc go through pragcast #2 and take notes 2 => 1
+✓ @podcast dave anderson part 2 take notes and delicius-ized 1 => 1
+✓ @rails23 @palomizable railscasts templates 1 => 1
+✓ @rails23 have a look at other templates on the net to see the smartest plus obtivians 1 => 1
+✓ @cross about to finish space on iphone please cleanup stuff 0
+✓ @personal luca's passport step 1: social security card replacement
+✓ @video what are ctags? http://smartic.us/2009/04/03/creating-ctags-with-git-hooks
+✓ @reading gae by ola bini http://olabini.com/blog/2009/04/dynamic-languages-on-google-app-engine-an-overview/
+✓ @reading gianugo's on open source and agile http://boldlyopen.com/2009/04/08/open-source-and-agile-oil-and-water/
+✓ @personal @jazz I once ordered a book from amazon that never arrived and they never replied me back 0
+✓ @reading obsession to perfection can be bad http://www.dancres.org/blitzblog/2009/03/04/imperfect
+✓ @reading http://jakescruggs.blogspot.com/2009/03/get-better-page-rankings-with-squid.html
+✓ @reading http://www.betaversion.org/~stefano/linotype/news/250/
+✓ @reading http://www.rubyinside.com/a-walk-through-the-ruby-object-model-1608.html
+✓ @reading http://www.agilemanagement.net/Articles/Weblog/KanbanPlanningandEstimati.html
+✓ @reading http://blog.saush.com/2009/03/write-an-internet-search-engine-with-200-lines-of-ruby-code/
+✓ @reading go through the reading list and write what the article is about 1 => 1
+✓ @reading based on what the article is about, prioritize reading 1 => 1
+✓ @ap Pay check $1,588.80 to AgilePartners insurance contribution
+✓ @jazz neeed to bring keyboard for repair as soon as possible 2
+✓ @video ola bini on jruby at qcon http://www.infoq.com/presentations/bini-power-on-jvm
+✓ @video getting software into production Bryan Liles http://smartic.us/2009/04/17/a-code-journey-from-your-fingertips-to-production/
+✓ @personal luca's passport step 2: laura's state ID card or ask if Fermi ID is a valid government ID
+✓ @personal luca's passport step 3: pictures passport size for a newborn
+✓ @buy a vga to mini-dvi dongle for macpro
+✓ *** @reading http://blog.anthonyburns.co.uk/Creating-a-Twitter-Client-for-OSX-in-MacRuby
+✓ *** @reading http://blog.anthonyburns.co.uk/Creating-a-Twitter-Client-for-OSX-in-MacRuby--Part-2

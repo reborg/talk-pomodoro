@@ -1,0 +1,18 @@
+@WORKFLOW:
+PLANNING THE DAY
+- start the pomodoro
+- create a new file for today's planning (say 20.txt)
+- get an estimate of the total number of pomodoro avilable for current session
+- goto previous day planning file (for example 19.txt)
+- read pomospective
+- read raw pomodoro dump
+- look at what was left not done and copy it to the planned section
+- goto inventory master file
+- look at @inbox at the bottom and process what's there with related tags
+- decide what are the main areas of work of today (usually there is a single project taking at least 80% of the time) looking at the "@" sections
+- plan and organizes task for those activities
+
+END OF THE POMODORO
+- goto today plan, mark one pomodoro current task
+- if task done, move to done column
+
