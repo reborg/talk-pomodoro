@@ -4,9 +4,13 @@
 
 Pomodoro talk slides and supporting material. There will be a branch for each version of the same talk for different audience.
 
+== DOWNLOAD WITHOUT GIT:
+
+If you want to download the archive of this folder you don't need git. At the top of this page there is a download button. If you click it you can download the zipped archive of the presentation.
+
 == LICENSE:
 
-Creative Commons Liense - Attribution-NonCommercial-NoDerivs 2.5
+Creative Commons License - Attribution-NonCommercial-NoDerivs 2.5
 
 You are free  to copy, distribute, display, and perform the work under 
 the following conditions:
