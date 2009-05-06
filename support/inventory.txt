@@ -25,5 +25,5 @@
   - @templates webrat unpack 4
   - @templates need github 2
 
-@INBOX
+@INBOX:
 - @all the rest waiting for processing
