@@ -2,7 +2,7 @@
 
 == DESCRIPTION:
 
-Pomodoro talk slides and supporting material. There will be a branch for each version of the same talk for different audience.
+Pomodoro talk slides and supporting material. This is the Agile 2009 flavor of the presentation.
 
 == DOWNLOAD WITHOUT GIT:
 
