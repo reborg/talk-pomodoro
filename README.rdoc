@@ -4,9 +4,9 @@
 
 Pomodoro talk slides and supporting material. This is the Agile 2009 flavor of the presentation.
 
-== DOWNLOAD WITHOUT GIT:
+== DOWNLOAD THE PRESENTATION PACKAGE:
 
-If you want to download the archive of this folder you don't need git. At the top of this page there is a download button. If you click it you can download the zipped archive of the presentation.
+Go to http://github.com/reborg/talk-pomodoro/tree/agile2009 if you aren't here already. At the top of the github page of the project there is a download button. If you click it you can download the zipped archive of the presentation. If you want to use git instead: git clone git://github.com/reborg/talk-pomodoro.git, git co agile2009
 
 == LICENSE:
 
