@@ -1,0 +1,16 @@
+The “pomodoro technique” is a simple tracking and feedback process where the unit of work is the “pomodoro”, a time slot of 25 mins. In this tutorial I’ll give you advanced practical advices on how to implement the daily pomodoro practice, common pitfalls, tools you may find useful and how to read and use pomodoro metrics and answer questions like: what did I do the last week, on which tasks I spent most of the time, how frequent is the context switching. Hopefully after this talk you’ll be able to go back to your team and give pomodoros a try with all the practical information needed.
+
+Process/Mechanics
+I’ll show a small agile setup with a bunch of stories in different states. As the project progresses pomodoros are first produced and then “consumed” by the different roles in the project. I’ll be moving fast between the start of the iteration, the retrospective and the day by day work by tracking pomodoros worked and show how to read the charts produced by it to infer useful information (for example something like this chart of pomodoros worked by task http://reborg.net/pic/tomato2.png). I’m mainly focused on the practice of using pomodoros in-context giving just enough of the theory necessary to move forward. Please consider following Staffan Noteberg’s talk on pomodoros that covers much better all the basics of the technique.
+
+About me: my personal experience with pomodoros started 3 years ago. I’ve collected around 5000 tomatoes (time-stamps plus descriptions) with different tools (have a read here to know more about my experience http://reborg.tumblr.com/post/51570675/tomatoes). I’ve tried the technique as a team practice at least a couple of times. I think the key is to render the tracking less invasive as possible: tracking time with a small note shouldn’t take more than a few seconds.
+
+About the Pomodoro Technique: the PT was invented by Francesco Cirillo in late ‘80 and refined over time until today. The Pomodoro has an official site http://www.pomodorotechnique.com/ and an official paper http://www.pomodorotechnique.com/resources/cirillo/ThePomodoroTechnique_.... There is also a great book by Staffan Noteberg now in beta state at http://www.pomodoro-book.com/.
+
+Learning outcomes
+Basics about the Pomodoro Technique
+How pomodoros integrate with other agile practices
+How to estimate tasks with pomodoros
+How the project management can take advantage of pomodoros
+The importance of minimizing tracking impact
+Useful tools you can use

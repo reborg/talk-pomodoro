@@ -1,0 +1,17 @@
+CREATE USER PROPOSAL:
+- Create page with form and submit button
+- Handle validation and errors 3
+- Show proposal preview 4
+- Confirmation page 1
+
+PICK A USER STORY FROM THE STORY WALL:
+- @tag if you have tasks already, copy them here
+- @tag considering the original tasks, are them in the 5-7 pomodoros range?
+- @tag @tag this is a task with an estimate of 3
+- @tag this is another more difficult task 6
+
+SPIKES:
+- @spike I think I need to learn how to use matches in regexp 2
+- @spike I've @done this already
+
+INBOX:
